@@ -29,7 +29,7 @@ setup(
     author="Jannis Born, Greta Markert, Matteo Manica",
     author_email=("jab@zurich.ibm.com, greta.markert@gmail.com, drugilsberg@gmail.com"),
     install_requires=[
-        "paccmann_predictor @ git+ssh://github.com/PaccMann/paccmann_predictor",
+        "paccmann_predictor @ git+ssh://git@github.com/PaccMann/paccmann_predictor",
         "torch",
         "deepchem",
         "tensorflow>=2.0",
